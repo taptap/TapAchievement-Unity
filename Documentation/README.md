@@ -1,4 +1,4 @@
-# [使用 TapTap.Achievement ](./Documentation/README.md)
+# 使用 TapTap.Achievement
 
 ## 使用前提
 
