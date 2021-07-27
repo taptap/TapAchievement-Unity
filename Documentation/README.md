@@ -25,7 +25,7 @@ private class AchievementCallback:IAchievementCallback{
         //成就SDK 初始化成功
     }
 
-    public void OnAchievementInitFail(TapError errorCode)
+    public void OnAchievementSDKInitFail(TapError errorCode)
     {
         if (errorCode != null)
         {
