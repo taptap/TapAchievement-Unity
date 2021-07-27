@@ -143,3 +143,19 @@ TapAchievement.SetShowToast(bool isShow);
 ```c#
 TapAchievement.ShowAchievementPage();
 ```
+
+### 9.成就相关数据解读
+
+```c#
+public string id;// 成就 id
+public string displayId;// id 
+public int visible = VisibleFalse;//是否是隐藏成就
+public string title;//标题
+public string subTitle;//副标题
+public string achieveIcon;// 图标
+public int step;//设定步数
+public bool fullReached;//是否达成
+public int reachedStep;//达成步数
+public long reachedTime;//达成时间
+public AchievmentStats stats;//当前成就稀有度指标
+```
