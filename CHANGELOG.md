@@ -4,7 +4,7 @@
 
 ### New Feature
 
-- 新增成就系统
+- 支持游戏内成就
 
 ### Dependencies
 
