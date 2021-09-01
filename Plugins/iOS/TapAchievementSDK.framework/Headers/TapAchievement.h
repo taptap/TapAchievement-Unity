@@ -11,8 +11,8 @@
 #import <TapCommonSDK/TapCommonSDK.h>
 
 #define TapAchievementSDK                @"TapAchievement"
-#define TapAchievementSDK_VERSION_NUMBER @"20103001"
-#define TapAchievementSDK_VERSION        @"2.1.3"
+#define TapAchievementSDK_VERSION_NUMBER @"30200001"
+#define TapAchievementSDK_VERSION        @"3.2.0"
 
 NS_ASSUME_NONNULL_BEGIN
 typedef void (^TTAchievementRequestHandler)(NSArray<TapAchievementModel *> *_Nullable result, NSError *_Nullable error);
