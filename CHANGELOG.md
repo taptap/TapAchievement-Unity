@@ -1,5 +1,11 @@
 # ChangeLog
 
+## v3.3.1
+
+### Dependencies
+
+- TapBootstrap v3.3.1
+
 ## v3.3.0
 
 ### New Feature
