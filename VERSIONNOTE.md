@@ -1,7 +1,3 @@
-### New Feature
-
-- UI 微调
-
 ### Dependencies
 
-- TapBootstrap v3.3.0
+- TapTap.Bootstrap v3.4.0

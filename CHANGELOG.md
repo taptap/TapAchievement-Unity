@@ -1,5 +1,9 @@
 # ChangeLog
 
+### Dependencies
+
+- TapTap.Bootstrap v3.4.0
+
 ## v3.3.0
 
 ### New Feature
